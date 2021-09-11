@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Mitul-Joby/Mitul-Joby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hi there! My name is Mitul Joby.
+- He/Him
+- Mostly self-taught
+- Studying Computer Science Engineering
+- Currently learning Lua and C#
+- Aspiring to make a game someday :)
 
-Here are some ideas to get you started:
+## Contact Me
+Wanna contact me? You can reach me on these platforms.
+<p align = "center">
+  <a title="E-Mail Me" href="mailto:its.mitul.joby@gmail.com?Subject=Hi%20Mitul"><img alt="Mail Me" src="https://mituljoby.me/static/images/Mail-White.png" height="32"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a title="Find me on Twitter" href="https://twitter.com/mituljoby"><img alt="Twitter" src="https://mituljoby.me/static/images/Twitter-Logo-Rounded-White.png" height="32"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a title="Find me on Instagram" href="https://www.instagram.com/mitul_joby/"><img alt="Instagram" src="https://mituljoby.me/static/images/Instagram-Logo-White.png" height="32"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+<p align = "center">
+    <img src="https://github-readme-stats.vercel.app/api/?username=Mitul-Joby&hide=issues,contribs&show_icons=true&title_color=fff&icon_color=123456&text_color=9f9f9f&bg_color=151515" />
+  	&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitul-Joby&layout=compact&title_color=fff&text_color=9f9f9f&bg_color=151515&border_color=ffffff" />
+</p>
+<hr>
+
+<p align = "right">
+  <img src ="https://komarev.com/ghpvc/?username=Mitul-Joby&color=123456&style=flat" alt="Profile Visitors"/>
+</p>
