@@ -12,7 +12,7 @@ Hey! I'm Mitul! I'm currently pursuing a degree in Computer Science Engineering.
 
 - I like making, tinkering, breaking and disecting things. 
 - Enthusiastic participant in Capture The Flag (CTF) competitions, allows me to apply my problem-solving skills, think creatively, and sharpen my knowledge in cybersecurity domains such as web-exploitation, binary exploitation, reverse engineering, cryptography, forensics, etc.
-- Exploring the intricacies of game mechanics, innovative design concepts, game music intergration is a source of endless fascination for me. 
+- Exploring the intricacies of game mechanics, innovative design concepts, game music integration is a source of endless fascination for me. 
 - AI/ML enthusiast
 <!-- Itch page soon? -->
 
